@@ -1,0 +1,27 @@
+.u-section-1 .u-sheet-1 {min-height: 500px}
+.u-section-1 .u-btn-1 {background-image: none; font-weight: normal; box-shadow: 2px 2px 8px 0 rgba(128,128,128,1); margin: 30px 0 60px; padding: 10px 146px 10px 144px}
+.u-section-1 .u-text-1 {font-size: 1rem; margin: -361px auto 60px 50px}
+.u-section-1 .u-btn-2 {background-image: none; border-style: solid; font-weight: normal; box-shadow: 2px 2px 8px 0 rgba(128,128,128,1); margin: 172px auto 0 25px; padding: 14px 44px 14px 43px}
+.u-section-1 .u-btn-3 {background-image: none; border-style: solid; font-weight: normal; box-shadow: 2px 2px 8px 0 rgba(128,128,128,1); margin: 25px auto 0 30px; padding: 14px 44px 14px 43px}
+.u-section-1 .u-btn-4 {background-image: none; border-style: solid; font-weight: normal; box-shadow: 2px 2px 8px 0 rgba(128,128,128,1); margin: -57px 25px 0 auto; padding: 14px 44px 14px 43px}
+.u-section-1 .u-line-1 {width: 912px; margin: 30px 50px 0} 
+
+@media (max-width: 1199px){ .u-section-1 .u-text-1 {margin-left: 41px}
+.u-section-1 .u-btn-2 {margin-left: 0}
+.u-section-1 .u-btn-3 {margin-left: 0}
+.u-section-1 .u-btn-4 {margin-right: 0}
+.u-section-1 .u-line-1 {margin-left: 14px; margin-right: 14px} }
+
+@media (max-width: 991px){ .u-section-1 .u-text-1 {margin-left: 31px}
+.u-section-1 .u-line-1 {width: 720px; margin-left: 0; margin-right: 0} }
+
+@media (max-width: 767px){ .u-section-1 .u-text-1 {margin-left: 23px}
+.u-section-1 .u-line-1 {width: 540px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 520px}
+.u-section-1 .u-btn-1 {border-style: none; animation-duration: 1000ms; margin: 161px auto 0; padding: 6px 53px 7px}
+.u-section-1 .u-text-1 {width: auto; font-size: 1.125rem; margin-top: -149px; margin-left: auto; margin-bottom: 0}
+.u-section-1 .u-btn-2 {border-style: none; animation-duration: 1000ms; margin-top: 141px; margin-left: auto; padding: 6px 53px 7px}
+.u-section-1 .u-btn-3 {border-style: none; animation-duration: 1000ms; margin-top: 20px; margin-left: auto; padding: 6px 38px 7px 37px}
+.u-section-1 .u-btn-4 {border-style: none; animation-duration: 1000ms; margin-top: 20px; margin-right: auto; padding: 6px 61px 7px 60px}
+.u-section-1 .u-line-1 {height: 3px; width: 100px; transform-origin: left center 0; margin-top: -275px; margin-left: auto; margin-right: auto} }
